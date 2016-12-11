@@ -1,0 +1,3 @@
+## this is my first version of a script for analysing some data
+
+#here is some analysis...
